@@ -1,0 +1,13 @@
+name: omicron
+version: 0.0.1
+
+authors:
+  - Gabriel Gutierrez <gabriel.ethan.phantom@gmail.com>
+
+targets:
+  omicron:
+    main: src/omicron.cr
+
+crystal: 1.0.0
+
+license: MIT
